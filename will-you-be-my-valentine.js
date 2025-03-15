@@ -22,7 +22,7 @@ function rejectLove() {
 function acceptLove() {
     document.getElementById("valentine").innerHTML = `
         <img src="https://media1.tenor.com/m/aEWN44So2ckAAAAC/kiss-kisses.gif" class="gif">
-        <div class="question">YAYAYYAYAYAYAY I LOVE YOU SO MUCH NADYAAAA❤️</div>
+        <div class="question">YAYAYYAYAYAYAY I LOVE YOU SO MUCH ❤️</div>
         <audio id="love-music" autoplay>
             <source src="musik/snap.mp3" type="audio/mpeg">
             Your browser does not support the audio element.
